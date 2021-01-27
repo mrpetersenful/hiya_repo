@@ -1,9 +1,15 @@
+# Microsoft Office Temporary files
+*~
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
 # History files
 .Rhistory
 .Rapp.history
 
 # Session Data files
-.RData
+# .RData
 
 # User-specific files
 .Ruserdata
